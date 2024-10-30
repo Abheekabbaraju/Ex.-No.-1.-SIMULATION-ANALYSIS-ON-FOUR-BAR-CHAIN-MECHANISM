@@ -54,6 +54,11 @@
 
 ## Output:
 
+![Screenshot (13)](https://github.com/user-attachments/assets/2c8796f7-06c6-4703-9f9d-6a684f852f86)
+![Screenshot (14)](https://github.com/user-attachments/assets/d1cf7476-4aee-4421-9cfa-6705149dadd4)
+![Screenshot (15)](https://github.com/user-attachments/assets/72a67750-132e-4e20-bc21-770222598a82)
+
+
 
 ### Name:
 ### Register Number: 
