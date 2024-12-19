@@ -60,8 +60,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:abheek
+### Register Number: 24001418
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
